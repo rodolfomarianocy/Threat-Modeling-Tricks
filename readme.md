@@ -56,7 +56,7 @@ https://www.cisecurity.org/controls/v8
 https://owasp.org/www-community/OWASP_Risk_Rating_Methodology  
 
 ### Implementando Threat Modeling em Pentest
-O Threat Modeling é útil na fase de reconhecimento do Pentest, ajudando em ataques mais efetivos que podem ser baseados em frameworks como o CAPEC do MITRE que apresenta uma classificação de padrões de ataques comuns que podem ser usados como guia para exploração.
+O Threat Modeling é útil na fase de reconhecimento do Pentest, ajudando em ataques mais efetivos que podem ser baseados em frameworks como o CAPEC do MITRE que apresenta uma classificação de padrões de ataques comuns que podem ser usados como guia para exploração.  
 https://capec.mitre.org/  
 https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
 https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/  
