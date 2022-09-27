@@ -48,6 +48,7 @@ https://www.cisecurity.org/controls/v8
 
 ## Classificação dos Riscos
 É necessário utilizar uma Metodologias de Classificação de Riscos na elaboração do Threat Modeling, onde servirá como base para priorização dando um ponto focal aos maiores riscos, entre as metodologias mais usadas está o:  
+
 ### OWASP Risk Rating  
 <a href="https://www.simplerisk.com/sites/default/files/2021-02/owasp-risk-rating-methodology.png" >
 <img src="https://www.simplerisk.com/sites/default/files/2021-02/owasp-risk-rating-methodology.png" />
@@ -61,8 +62,15 @@ https://capec.mitre.org/
 https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
 https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/  
 
-### Templates de Threat Modeling Microsoft Tool
-https://github.com/EasyAppSecurity/aws-threat-modeling-tool-template
+### Microsoft Threat Modeling Tool
+-> AWS Cloud  
+https://github.com/EasyAppSecurity/aws-threat-modeling-tool-template  
+-> Azure Cloud and Medical Device
+https://github.com/microsoft/threat-modeling-templates
+-> Automotive Threat Modeling 
+https://github.com/zhendongma/Automotive_Threat_Modeling
+-> Others
+https://github.com/matthiasrohr/OTMT
 
 ###  Relatório de Threat Modeling de exemplo
 Loading... [x]
