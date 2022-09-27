@@ -33,7 +33,8 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool
 -> Crime Organizado  
 -> Cyber Espionagem(governamental, industrial)  
 -> Estelionatário  
--> Hacker  
+-> Hacker    
+etc...
 
 ## Verificações de Requisitos e Controles de Segurança Implementados
 Uma vericação de requisitos de segurança pode ser elencada em um threat modeling para ajudar na prevenção de ameaças que foram apontadas inicialmente sendo co-relacionada com o modelo de identificação de ameaças escolhido como por exemplo:  
