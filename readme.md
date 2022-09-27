@@ -49,6 +49,7 @@ https://www.cisecurity.org/controls/v8
 
 ## Classificação dos Riscos
 É necessário utilizar uma Metodologias de Classificação de Riscos na elaboração do Threat Modeling, onde servirá como base para priorização dando um ponto focal aos maiores riscos, entre as metodologias mais usadas está:
+
 ### OWASP Risk Rating  
 <a href="https://www.simplerisk.com/sites/default/files/2021-02/owasp-risk-rating-methodology.png" >
 <img src="https://www.simplerisk.com/sites/default/files/2021-02/owasp-risk-rating-methodology.png" />
