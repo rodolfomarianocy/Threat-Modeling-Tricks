@@ -65,12 +65,12 @@ https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/
 ### Microsoft Threat Modeling Tool
 -> AWS Cloud  
 https://github.com/EasyAppSecurity/aws-threat-modeling-tool-template  
--> Azure Cloud and Medical Device
-https://github.com/microsoft/threat-modeling-templates
--> Automotive Threat Modeling 
-https://github.com/zhendongma/Automotive_Threat_Modeling
--> Others
-https://github.com/matthiasrohr/OTMT
+-> Azure Cloud and Medical Device  
+https://github.com/microsoft/threat-modeling-templates  
+-> Automotive Threat Modeling  
+https://github.com/zhendongma/Automotive_Threat_Modeling  
+-> Others  
+https://github.com/matthiasrohr/OTMT  
 
 ###  Relatório de Threat Modeling de exemplo
 Loading... [x]
