@@ -60,5 +60,5 @@ O Threat Modeling é útil na fase de reconhecimento do Pentest, ajudando em ata
 https://capec.mitre.org/  
 https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
 https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/  
-### Templates de relatório de Threat Modeling:  
+### Templates de relatório de Threat Modeling
 Loading... [x]
