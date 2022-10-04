@@ -66,7 +66,8 @@ https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
 The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
 
 #### Threat Modeling approach - TEMPLATE
-https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx
+https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
+
 -> References:  
 https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
 https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/  
