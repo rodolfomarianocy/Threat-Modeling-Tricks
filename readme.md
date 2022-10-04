@@ -1,5 +1,7 @@
 # Threat Modeling
+
 It is a process in which security threats are detected, and potential risks that can impact the logical flow and architecture of systems can be mapped and listed. Aiming at a Shift-Left strategy, the introduction of Threat Modeling facilitates the implementation of Security-By-Design for your S-SDLC in the Design phase.
+
 ---
 
 ### Divided in:
@@ -21,6 +23,9 @@ https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-threats  
 For this phase there are some tools that can be used for free, such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
+e.g  
+![das](https://user-images.githubusercontent.com/54555784/193931832-a801b581-e934-4470-a856-44b8a1605fff.png)
+
 
 ## Identification of Threat Profiles
 It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:
