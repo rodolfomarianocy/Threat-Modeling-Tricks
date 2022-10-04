@@ -31,7 +31,7 @@ e.g.
 ### Threat Tree
 The strategy of drawing a threat tree is a good approach to sequentially explain the path to exploit a given threat:
 
-<img src="https://user-images.githubusercontent.com/54555784/193939649-d5898fa0-6ac1-4702-aa69-96b67897ebc6.png" />
+<img height="250em" src="https://user-images.githubusercontent.com/54555784/193939649-d5898fa0-6ac1-4702-aa69-96b67897ebc6.png" />
 
 ## Identification of Threat Profiles
 It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:  
