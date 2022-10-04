@@ -24,7 +24,7 @@ Para essa fase existem algumas tools que podem ser utilizadas gratuitamente, com
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 
 ## Identificação dos Perfis de Ameaças
-É importante Durante o Threat Modeling ter um entedimento claro sobre os Perfis de ameaça, podendo ter entre eles, figuras como:  
+É importante durante o Threat Modeling ter um entendimento claro sobre os Perfis de ameaça, podendo ter entre eles, figuras como:  
 -> Fraudador  
 -> Spammer  
 -> Troll  
