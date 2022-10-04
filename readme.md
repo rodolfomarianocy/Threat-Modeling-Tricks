@@ -72,7 +72,7 @@ https://github.com/zhendongma/Automotive_Threat_Modeling
 -> Other  
 https://github.com/matthiasrohr/OTMT  
 
-## Implementando Threat Modeling em Pentest
+## Implementing Threat Modeling in Pentest
 The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
 
 ### Threat Modeling approach - TEMPLATE
