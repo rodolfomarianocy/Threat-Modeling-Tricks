@@ -16,7 +16,7 @@ It is necessary to use a model to identify threats, the most used currently is S
 
 <a href="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" > 
 
-<img height="460em" src="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" />
+<img height="360em" src="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" />
 </a>
 
 https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/  
@@ -26,7 +26,7 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-th
 For this phase there are some tools that can be used for free, such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:  
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 e.g.  
-<img height=350em src="https://user-images.githubusercontent.com/54555784/193932981-65206db9-0c47-415a-a668-ac9ef8dfb287.png" />
+<img height=250em src="https://user-images.githubusercontent.com/54555784/193932981-65206db9-0c47-415a-a668-ac9ef8dfb287.png" />
 
 ### Threat Tree
 The strategy of drawing a threat tree is a good approach to sequentially explain the path to exploit a given threat:
