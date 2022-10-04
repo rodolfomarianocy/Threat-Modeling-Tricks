@@ -46,7 +46,7 @@ https://owasp.org/www-project-application-security-verification-standard/
 CIS Critical Security Controls Version 8 can also be implemented during Threat Modeling, and is a set of prioritized best practices for mitigating cyber attacks.
 https://www.cisecurity.org/controls/v8  
 
-## Classificação dos Riscos
+## Risk Classification
 It is necessary to use a Risk Classification Methodologies in the elaboration of Threat Modeling, which will serve as a basis for prioritization, giving a focal point to the greatest risks, among the most used methodologies are:
 
 ### OWASP Risk Rating  
