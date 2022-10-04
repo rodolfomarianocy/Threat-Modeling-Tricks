@@ -37,7 +37,7 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool
 etc...
 
 ## Verificações de Requisitos e Controles de Segurança Implementados
-Uma vericação de requisitos de segurança pode ser elencada em um threat modeling para ajudar na prevenção de ameaças que foram apontadas inicialmente sendo co-relacionada com o modelo de identificação de ameaças escolhido como por exemplo:  
+Uma verifcação de requisitos de segurança pode ser elencada em um threat modeling para ajudar na prevenção de ameaças que foram apontadas inicialmente sendo co-relacionada com o modelo de identificação de ameaças escolhido como por exemplo:  
 
 ### ASVS - OWASP Application Security Verification Standard 
 O ASVS trata-se de um ótimo framework para isso, pois fornece requisitos para testar os controles técnicos de segurança de aplicações e uma lista de requisitos para desenvolvimento seguro.  
