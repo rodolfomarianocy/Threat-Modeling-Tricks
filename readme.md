@@ -21,7 +21,7 @@ It is necessary to use a model to identify threats, the most used currently is S
 https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/  
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-threats  
 For this phase there are some tools that can be used for free, 
-such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:
+such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:  
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 
 e.g.  
@@ -62,10 +62,10 @@ It is necessary to use a Risk Classification Methodologies in the elaboration of
 
 https://owasp.org/www-community/OWASP_Risk_Rating_Methodology  
 
-### Implementando Threat Modeling em Pentest
+## Implementando Threat Modeling em Pentest
 The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
 
-#### Threat Modeling approach - TEMPLATE
+### Threat Modeling approach - TEMPLATE
 https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
 
 -> References:  
