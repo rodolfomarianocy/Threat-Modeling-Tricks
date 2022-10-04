@@ -14,8 +14,9 @@ It is a process in which security threats are detected, and potential risks that
 ## Threat Identification
 It is necessary to use a model to identify threats, the most used currently is STRIDE, but there are also others such as: DREAD, VAST, OCTAVE, FOLDER, DREAD, TRIKE.
 
-<a href="https://www.researchgate.net/profile/J-Mcdonald-10/publication/321484000/figure/fig1/AS:597541452263424@1519476392455/STRIDE-threat-model.png"> 
-<img height="350em" src="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" />
+<a href="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" > 
+
+<img height="460em" src="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" />
 </a>
 
 https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/  
@@ -29,7 +30,7 @@ e.g.
 <img height=350em src="https://user-images.githubusercontent.com/54555784/193932981-65206db9-0c47-415a-a668-ac9ef8dfb287.png" />
 
 ## Identification of Threat Profiles
-It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:
+It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:  
 -> fraudster  
 -> Spammer  
 -> Troll  
