@@ -21,11 +21,11 @@ It is necessary to use a model to identify threats, the most used currently is S
 
 https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/  
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-threats  
-For this phase there are some tools that can be used for free, such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:
+For this phase there are some tools that can be used for free, 
+such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 e.g  
-![das](https://user-images.githubusercontent.com/54555784/193931832-a801b581-e934-4470-a856-44b8a1605fff.png)
-
+<img height=350em src="https://user-images.githubusercontent.com/54555784/193932981-65206db9-0c47-415a-a668-ac9ef8dfb287.png" />
 
 ## Identification of Threat Profiles
 It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:
@@ -44,11 +44,11 @@ etc...
 A security requirements check can be listed in a threat modeling to help prevent threats that were initially identified and correlated with the chosen threat identification model, for example:
 
 ### ASVS - OWASP Application Security Verification Standard 
-ASVS is a great framework for this, as it provides requirements for testing technical application security controls and a list of requirements for secure development.
+ASVS is a great framework for this, as it provides requirements for testing technical application security controls and a list of requirements for secure development.  
 https://owasp.org/www-project-application-security-verification-standard/  
 
 ### CIS Critical Security Controls Version 8  
-CIS Critical Security Controls Version 8 can also be implemented during Threat Modeling, and is a set of prioritized best practices for mitigating cyber attacks.
+CIS Critical Security Controls Version 8 can also be implemented during Threat Modeling, and is a set of prioritized best practices for mitigating cyber attacks.  
 https://www.cisecurity.org/controls/v8  
 
 ## Risk Classification
