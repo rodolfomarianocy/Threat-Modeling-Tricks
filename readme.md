@@ -1,4 +1,4 @@
-# Threat Modeling
+# Threat Modeling Tricks
 
 It is a process in which security threats are detected, and potential risks that can impact the logical flow and architecture of systems can be mapped and listed. Aiming at a Shift-Left strategy, the introduction of Threat Modeling facilitates the implementation of Security-By-Design for your S-SDLC in the Design phase.
 
@@ -25,10 +25,13 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-th
 ### Threat Modeling Tool Microsoft
 For this phase there are some tools that can be used for free, such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:  
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
-
 e.g.  
-
 <img height=350em src="https://user-images.githubusercontent.com/54555784/193932981-65206db9-0c47-415a-a668-ac9ef8dfb287.png" />
+
+### Threat Tree
+The strategy of drawing a threat tree is a good approach to sequentially explain the path to exploit a given threat:
+
+<img src="https://user-images.githubusercontent.com/54555784/193939649-d5898fa0-6ac1-4702-aa69-96b67897ebc6.png" />
 
 ## Identification of Threat Profiles
 It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:  
@@ -76,6 +79,14 @@ https://github.com/matthiasrohr/OTMT
 The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
 
 ### Threat Modeling approach - Report Template
+The structure of a pentesting report with a threat modeling approach would look like this:
+Architecture Information and Threat Identification  
+-> Executive Report  
+-> Technical Report  
+-> Identified Vulnerabilities  
+-> Risk Classification  
+-> Remediation report  
+
 -> Report Pentest with Threat Modeling Approach  
 https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
 
