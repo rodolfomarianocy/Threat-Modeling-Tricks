@@ -24,7 +24,7 @@ Para essa fase existem algumas tools que podem ser utilizadas gratuitamente, com
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 
 ## Identificação dos Perfis de Ameaças
-É importante durante o Threat Modeling ter um entendimento claro sobre os Perfis de ameaça, podendo ter entre eles, figuras como:  
+É importante Durante o Threat Modeling ter um entendimento claro sobre os perfis de ameaça, ou seja os perfis de atacantes que podem explorar determinadas ameaças, podendo ter entre eles, figuras como:  
 -> Fraudador  
 -> Spammer  
 -> Troll  
@@ -37,7 +37,7 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool
 etc...
 
 ## Verificações de Requisitos e Controles de Segurança Implementados
-Uma verifcação de requisitos de segurança pode ser elencada em um threat modeling para ajudar na prevenção de ameaças que foram apontadas inicialmente sendo co-relacionada com o modelo de identificação de ameaças escolhido como por exemplo:  
+Uma verificação de requisitos de segurança pode ser elencada em um threat modeling para ajudar na prevenção de ameaças que foram apontadas inicialmente sendo co-relacionada com o modelo de identificação de ameaças escolhido como por exemplo:  
 
 ### ASVS - OWASP Application Security Verification Standard 
 O ASVS trata-se de um ótimo framework para isso, pois fornece requisitos para testar os controles técnicos de segurança de aplicações e uma lista de requisitos para desenvolvimento seguro.  
