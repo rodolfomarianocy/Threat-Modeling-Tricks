@@ -62,16 +62,6 @@ It is necessary to use a Risk Classification Methodologies in the elaboration of
 
 https://owasp.org/www-community/OWASP_Risk_Rating_Methodology  
 
-## Implementando Threat Modeling em Pentest
-The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
-
-### Threat Modeling approach - TEMPLATE
-https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
-
--> References:  
-https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
-https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/  
-
 ### Templates - Microsoft Threat Modeling Tool 
 -> AWS Cloud  
 https://github.com/EasyAppSecurity/aws-threat-modeling-tool-template  
@@ -81,3 +71,13 @@ https://github.com/microsoft/threat-modeling-templates
 https://github.com/zhendongma/Automotive_Threat_Modeling  
 -> Other  
 https://github.com/matthiasrohr/OTMT  
+
+## Implementando Threat Modeling em Pentest
+The Pentest with Threat Modeling approach aims to implement a more comprehensive threat analysis strategy adding greater executive value by defining specific risks for the business, and also adds value to Pentest execution, since with more information provided about the application architecture, the pentest will be performed with better efficiency.
+
+### Threat Modeling approach - TEMPLATE
+https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
+
+-> References:  
+https://threatmodeler.com/threat-modeling-for-security-penetration-testing/  
+https://www.triaxiomsecurity.com/threat-modeling-for-penetration-testers/
