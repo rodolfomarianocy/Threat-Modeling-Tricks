@@ -10,7 +10,7 @@ It is a process in which security threats are detected, and potential risks that
 
 ---
 
-## Identificação de Ameaças
+## Threat Identification
 It is necessary to use a model to identify threats, the most used currently is STRIDE, but there are also others such as: DREAD, VAST, OCTAVE, FOLDER, DREAD, TRIKE.
 
 <a href="https://www.researchgate.net/profile/J-Mcdonald-10/publication/321484000/figure/fig1/AS:597541452263424@1519476392455/STRIDE-threat-model.png"> 
@@ -22,7 +22,7 @@ https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-th
 For this phase there are some tools that can be used for free, such as Microsoft's Threat Modeling Tool based on the STRIDE methodology:
 https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool  
 
-## Identificação dos Perfis de Ameaças
+## Identification of Threat Profiles
 It is important during Threat Modeling to have a clear understanding of the threat profiles, that is, the profiles of attackers that can exploit certain threats, which may include figures such as:
 -> fraudster  
 -> Spammer  
@@ -35,7 +35,7 @@ It is important during Threat Modeling to have a clear understanding of the thre
 -> Hacker  
 etc...
 
-## Verificações de Requisitos e Controles de Segurança Implementados
+## Requirements Checks and Implemented Security Controls
 A security requirements check can be listed in a threat modeling to help prevent threats that were initially identified and correlated with the chosen threat identification model, for example:
 
 ### ASVS - OWASP Application Security Verification Standard 
