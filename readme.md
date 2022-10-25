@@ -87,8 +87,7 @@ Architecture Information and Threat Identification
 -> Identified Vulnerabilities  
 -> Risk Classification  
 -> Remediation report  
--> Threat Prioritization
-
+-> Threat Prioritization  
 -> Report Pentest with Threat Modeling Approach  
 https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
 
