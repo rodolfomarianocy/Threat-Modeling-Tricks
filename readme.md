@@ -82,10 +82,12 @@ The Pentest with Threat Modeling approach aims to implement a more comprehensive
 The structure of a pentesting report with a threat modeling approach would look like this:
 Architecture Information and Threat Identification  
 -> Executive Report  
+-> Architecture Information
 -> Technical Report  
 -> Identified Vulnerabilities  
 -> Risk Classification  
 -> Remediation report  
+-> Threat Prioritization
 
 -> Report Pentest with Threat Modeling Approach  
 https://github.com/rodolfomarianocy/Threat-Modeling-Tricks/blob/main/report_template.docx  
