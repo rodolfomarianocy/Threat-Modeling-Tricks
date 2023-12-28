@@ -4,15 +4,15 @@ It is a process in which security threats are detected, and potential risks that
 
 ---
 ### Divided in:
--> Threat Identification  
+-> Threat identification and Classification
 -> Identification of Threat Profiles  
 -> Verification of Implemented Security Requirements and Controls  
 -> Risk Classification  
 
 ---
 
-## Threat Identification
-It is necessary to use a model to identify threats, the most used currently is STRIDE, but there are also others such as: DREAD, VAST, OCTAVE, FOLDER, DREAD, TRIKE.
+## Threat identification and Classification
+In a more traditional approach, it may be necessary to use a model to classify threats, the most used currently is STRIDE, but there are also others such as: DREAD, VAST, OCTAVE, FOLDER, DREAD, TRIKE.
 
 ### STRIDE Methodology
 <a href="https://developer.ibm.com/developer/default/articles/threat-modeling-microservices-openshift-4/images/STRIDE.png" > 
