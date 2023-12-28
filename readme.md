@@ -4,7 +4,7 @@ It is a process in which security threats are detected, and potential risks that
 
 ---
 ### Divided in:
--> Threat identification and Classification
+-> Threat identification and Classification  
 -> Identification of Threat Profiles  
 -> Verification of Implemented Security Requirements and Controls  
 -> Risk Classification  
